@@ -1,0 +1,55 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+.container{
+    width: 90%;
+    height: 600px;
+    margin: 40px 30px;
+
+}
+.main{
+    display: flex;
+    margin-block: 25px;
+    gap: 20px; 
+    height: 400px;
+
+}
+.container div{
+    color: white;
+    text-align: center;
+    font-size: 26px;
+}
+.Header{
+    height: 50px;
+    width: 100%;
+    padding-top: 10px;
+    background-color: green;
+}
+.Aside{
+    padding-top: 180px;
+    background-color:rebeccapurple;
+    width: 30%;    
+    height: 400px;
+
+}
+.Article{
+    width: 70%;
+    background-color: orange;
+    display: flex; 
+    justify-content: space-around; 
+}
+.box{
+    padding-top: 45px;
+    width: 130px;
+    height: 130px;
+    background-color: blue;
+    margin-top: 230px;
+}
+.Footer{
+    padding-top: 15px;
+    width: 100%;
+    height: 50px;
+    background-color: green;
+}

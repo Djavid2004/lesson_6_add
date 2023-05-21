@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 24px;
+}
+.box1{
+    background-color: aqua;
+}
+.container{
+    display: flex;
+    height: 300px;
+
+}
+.box2{
+    width: 20%;
+    background-color: gray;
+}
+.box3{
+    width: 60%;
+    background-color:orange;
+}
+.box5{
+    background-color: green;
+}

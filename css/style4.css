@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box1{
+    background-color: green;
+    height: 70px;
+    padding: 10px;
+}
+.container{
+    display: flex;
+    height: 400px;
+}
+.box2{
+    width: 60%;
+    padding: 10px;
+}
+.box3{
+    width: 20%;
+    padding: 10px;
+    background-color:antiquewhite ;
+}
+.box4{
+    padding: 10px;
+    width: 20%;
+    background-color: aqua;
+}
+.box5{
+    background-color: green;
+    height: 70px;
+    padding: 10px;
+}

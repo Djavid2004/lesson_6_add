@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    background-color: yellow;
+    display: flex;
+    height: 320px;
+    
+}
+.aside{
+    margin: 10px;
+    width: 60%;
+}
+.article{
+    padding-top: 15px;
+    
+}
+#h1{
+    padding-top: 70px;
+}
+#p1{
+    width: 60%;
+}
